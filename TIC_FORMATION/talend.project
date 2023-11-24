@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_lLqIYYrPEe67mrc87r52OQ" label="tic_formation" description="formati&amp;on" language="java" technicalLabel="TIC_FORMATION" author="_lLqIYorPEe67mrc87r52OQ" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/valebard/tic_repo.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_lLqIYYrPEe67mrc87r52OQ" label="tic_formation" description="formation" language="java" technicalLabel="TIC_FORMATION" author="_lLqIYorPEe67mrc87r52OQ" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/valebard/tic_repo.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_lM2bMIrPEe67mrc87r52OQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_lLqIYorPEe67mrc87r52OQ" login="valentin.bardin@trial26205.eu.talend.com" firstName="Walou" lastName="Desbois" type="DQ"/>
